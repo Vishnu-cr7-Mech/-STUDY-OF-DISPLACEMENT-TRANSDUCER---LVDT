@@ -1,6 +1,6 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
-### Name: vishwa J
-### Reg no: 212223080060
+### Name: VISHNUPRIYAN V
+no: 212223080058
 
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
